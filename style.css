@@ -1,0 +1,26 @@
+body {
+    font-size: 25pt;
+    background-color: white;
+}
+p{
+
+}
+a{
+text-decoration: none;
+color: pink;
+}
+a{
+  font-size: 50px
+}
+  
+svg{
+height: 50px;
+width: 50px;
+}
+
+
+hr {
+border:none;
+border: 1px solid #000;
+
+}
